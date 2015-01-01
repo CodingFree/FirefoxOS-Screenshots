@@ -1,0 +1,12 @@
+{
+  "name": "FirefoxOS Screenshots",
+  "launch_path": "/index.html",
+  "description": "Screenshots utility for FirefoxOS",
+  "default_locale": "en",
+  "version": "0.1.0",
+  "developer": {
+    "name": "CodingFree",
+    "url": "https://github.com/CodingFree/FirefoxOS-Screenshots/"
+  },
+  "type": "packaged"
+}
